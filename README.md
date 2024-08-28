@@ -19,7 +19,7 @@ A web user interface to manage your WireGuard setup.
 
 ### One-click Deploy
 
-You can deploy software on Elestio using one-click deployment.
+You can deploy Wireguard on Elestio using one-click deployment.
 
 [![Deploy on Elestio](https://elest.io/images/logos/deploy-to-elestio-btn.png)](https://elest.io/open-source/wireguard)
 
